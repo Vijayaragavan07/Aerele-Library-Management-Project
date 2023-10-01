@@ -66,3 +66,5 @@ NodeJS
 # Transaction Page
 
 ![Screenshot 2023-10-01 102539](https://github.com/Vijayaragavan07/Aerele-Library-Management-Project/assets/135326980/0f22a5d0-6434-47c8-a3e6-229f1dce0aa6)
+
+# Output Video Link : https://drive.google.com/drive/folders/1WDumwzdRM9kAsD_LnqOPCvsOCpsg0SC3?usp=sharing
